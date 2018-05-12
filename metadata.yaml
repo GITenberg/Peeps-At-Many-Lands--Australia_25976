@@ -21,6 +21,8 @@ creator:
     gutenberg_agent_id: '25216'
     url: http://www.gutenberg.org/2009/agents/25216
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/25976#Peeps-At-Many-Lands--Australia
 gutenberg_issued: '2008-07-06'
 gutenberg_type: Text
 identifiers:
